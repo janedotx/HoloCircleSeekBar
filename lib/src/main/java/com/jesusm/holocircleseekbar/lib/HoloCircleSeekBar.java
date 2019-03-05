@@ -42,7 +42,7 @@ public class HoloCircleSeekBar extends View {
     private static final int END_WHEEL_DEFAULT_VALUE = 360;
     public static final int COLOR_WHEEL_STROKE_WIDTH_DEF_VALUE = 16;
     public static final float POINTER_RADIUS_DEF_VALUE = 8;
-    public static final int MAX_POINT_DEF_VALUE = 100;
+    public static final int MAX_POINT_DEF_VALUE = 200;
     public static final int START_ANGLE_DEF_VALUE = 0;
 
     private OnCircleSeekBarChangeListener mOnCircleSeekBarChangeListener;
